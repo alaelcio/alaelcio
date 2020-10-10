@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-(https://www.linkedin.com/in/alaelcio/https://www.linkedin.com/in/alaelcio/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alaelcio/)](https://www.linkedin.com/in/alaelcio/) 
 
 
