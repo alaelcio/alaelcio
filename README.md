@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alaelcio/)](https://www.linkedin.com/in/alaelcio/) 
 
