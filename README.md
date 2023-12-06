@@ -1,4 +1,4 @@
-## Olá me chamo Alaelcio, apaixinado por tecnologia👍
+## Olá me chamo Alaelcio, apaixonado por tecnologia👍
 
 
 <div >
