@@ -9,6 +9,7 @@
 
 ![alaelcio GitHub stats](https://github-readme-stats.vercel.app/api?username=alaelcio&show_icons=true&theme=radical)
 
+ <a href = "mailto:alaelcioss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
  Tecnologias que eu,gosto mas de usa !!
